@@ -8,4 +8,6 @@ aa
 
 bbc
 
-this is my
+this is my {
+   var a = getS();
+}
