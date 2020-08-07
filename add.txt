@@ -33,7 +33,7 @@ this is my {
 
    }
 
-   dev add
+   dev edit
 
 
 
