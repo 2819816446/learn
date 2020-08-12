@@ -30,7 +30,7 @@ this is my {
         String klkssj = mObj.getString("KLStartTime");          //开料开始时间
         String klwcsj = mObj.getString("KLEndTime");            //开料完成时间
         String fbzs = mObj.getString("FBSumCnt");               //封边总数
-        dev edit aa row
+        dev edit aa row 1
 
 
    }
