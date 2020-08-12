@@ -18,7 +18,7 @@ this is my {
     for (int i = 0; i < totalDataArr.size(); i++) {
         JSONObject mObj = (JSONObject) totalDataArr.get(i);
 
-        String gcdh = mObj.getString("ProjectOrderId");          //工程单号
+        String gcdh = mObj.getString("ProjectOrderIdMaster");          //工程单号
         String ddts = mObj.getString("SolutionStatus");          //订单套数
         String ddh = mObj.getString("orderid");                 //ishare订单号
         String xsdh = mObj.getString("SalesOrderNumber");         //销售单号
@@ -30,6 +30,7 @@ this is my {
         String klkssj = mObj.getString("KLStartTime");          //开料开始时间
         String klwcsj = mObj.getString("KLEndTime");            //开料完成时间
         String fbzs = mObj.getString("FBSumCnt");               //封边总数
+        master edit aa row
 
    }
 
